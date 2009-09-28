@@ -41,6 +41,7 @@ my $build = Module::Build::Bundle->new(
         'Tie::IxHash'             => '0',
         'XML::Simple'             => '0',
         'YAML'                    => '0',
+        'Test::Prereq' => '0',
     },
     meta_merge => {
         resources => {
