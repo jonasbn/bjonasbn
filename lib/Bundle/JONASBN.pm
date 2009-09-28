@@ -2,17 +2,19 @@ package Bundle::JONASBN;
 
 $VERSION = '0.01';
 
+1;
+
+__END__
+
+=pod
+
 =head1 NAME
 
 Bundle::JONASBN - Collection of modules often used by jonasbn
 
 =head1 SYNOPSIS
 
-    cpan Bundle::JONASBN
-
-    # Or
-
-    C<perl -MCPAN -e 'install Bundle::JONASBN'>
+    perl -MCPAN -e 'install Bundle::JONASBN'
 
 =head1 CONTENTS
 
@@ -94,5 +96,3 @@ This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 =cut
-
-1; # End of Bundle::JONASBN
