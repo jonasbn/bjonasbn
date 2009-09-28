@@ -9,11 +9,11 @@ use Module::Build::Bundle;
 our $VERSION = '0.01';
 
 my $build = Module::Build::Bundle->new(
-    dist_author          => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
-    module_name          => 'Bundle::JONASBN',
-    license              => 'artistic',
-    create_readme        => 1,
-    requires => {
+    dist_author   => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
+    module_name   => 'Bundle::JONASBN',
+    license       => 'artistic',
+    create_readme => 1,
+    requires      => {
         'AppConfig'               => '0',
         'Cwd'                     => '0',
         'DBI'                     => '0',
@@ -38,10 +38,10 @@ my $build = Module::Build::Bundle->new(
         'Test::Perl::Critic'      => '0',
         'Test::Pod'               => '1.14',
         'Test::Pod::Coverage'     => '1.04',
+        'Test::Prereq'            => '0',
         'Tie::IxHash'             => '0',
         'XML::Simple'             => '0',
         'YAML'                    => '0',
-        'Test::Prereq' => '0',
     },
     meta_merge => {
         resources => {
