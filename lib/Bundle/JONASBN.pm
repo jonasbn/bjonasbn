@@ -36,41 +36,53 @@ Bundle::JONASBN - Collection of modules often used by jonasbn
 
 =item * L<Error>
 
+=item * L<Test::Prereq>
+
 =item * L<Module::Load>
+
+=item * L<WWW::Mechanize::Cached>
 
 =item * L<File::Path>
 
-=item * L<Module::Build>, 0.35
-
 =item * L<Test::Kwalitee>
 
-=item * L<List::MoreUtils>
+=item * L<Test::MockObject::Extends>
+
+=item * L<Module::Build>, 0.35
 
 =item * L<Module::Info::File>
 
-=item * L<DBI>
+=item * L<List::MoreUtils>
 
-=item * L<Test::Exception>
+=item * L<File::Slurp>
+
+=item * L<DBI>
 
 =item * L<Test::Pod::Coverage>, 1.04
 
+=item * L<Test::Exception>
+
 =item * L<Hash::Merge>
+
+=item * L<WWW::Mechanize>
 
 =item * L<Data::Dumper>
 
 =item * L<Template>
 
-=item * L<Date::Calc>
-
 =item * L<Test::More>
 
-=item * L<Spreadsheet::WriteExcel>
+=item * L<Date::Calc>
 
 =item * L<Params::Validate>, 0.85
+
+=item * L<Spreadsheet::WriteExcel>
 
 =item * L<AppConfig>
 
 =item * L<JSON>
+
+=item * L<Devel::Cover>
 
 =item * L<Cwd>
 
