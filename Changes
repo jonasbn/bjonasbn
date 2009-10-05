@@ -2,6 +2,8 @@ Changes file for Bundle::JONASBN
 
 0.02, released 05.10.2009 - Update not necessary
 
+- Added sorting to Build contents action [BJONASBN-7]
+
 - Added WWW::Mechanize [BJONASBN-2]
 
 - Added WWW::Mechanize::Cached [BJONASBN-3]
@@ -11,6 +13,8 @@ Changes file for Bundle::JONASBN
 - Added File::Slurp [BJONASBN-5]
 
 - Added Devel::Cover [BJONASBN-6]
+
+- Added Changes file [BJONASBN-8] 
 
 
 0.01, released 28.09.2009
