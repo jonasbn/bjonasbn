@@ -1,0 +1,18 @@
+Changes file for Bundle::JONASBN
+
+0.02, released 05.10.2009 - Update not necessary
+
+- Added WWW::Mechanize [BJONASBN-2]
+
+- Added WWW::Mechanize::Cached [BJONASBN-3]
+
+- Added Test::MockObject::Extends [BJONASBN-4]
+
+- Added File::Slurp [BJONASBN-5]
+
+- Added Devel::Cover [BJONASBN-6]
+
+
+0.01, released 28.09.2009
+
+- Initial release
