@@ -29,7 +29,7 @@ sub ACTION_contents {
         if ($val) {
             $pod .= "$key, $val\n\n";
         } else {
-            $pod .= "=$key\n\n";
+            $pod .= "$key\n\n";
         }
     }
     $pod .= "=back\n\n=head1 SEE ALSO";
