@@ -1,6 +1,6 @@
 package Bundle::JONASBN;
 
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 1;
 
@@ -25,6 +25,8 @@ Bundle::JONASBN - Collection of modules often used by jonasbn
 =item * L<CPAN::Mini>
 
 =item * L<CPAN::Reporter>
+
+=item * L<Class::Accessor>
 
 =item * L<Cwd>
 
@@ -71,6 +73,10 @@ Bundle::JONASBN - Collection of modules often used by jonasbn
 =item * L<Spreadsheet::WriteExcel>
 
 =item * L<Template>
+
+=item * L<Term::ReadLine::Perl>
+
+=item * L<Test::Class>
 
 =item * L<Test::Exception>
 

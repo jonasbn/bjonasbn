@@ -46,4 +46,4 @@
 
 # Avoid project specific files
 Bundle-JONASBN.kpf
-spikes
+spikes^MYMETA.yml$
