@@ -20,89 +20,89 @@ Bundle::JONASBN - Collection of modules often used by jonasbn
 
 =over
 
-=item * L<AppConfig>
+=AppConfig
 
-=item * L<CPAN::Mini>
+=CPAN::Mini
 
-=item * L<CPAN::Reporter>
+=CPAN::Reporter
 
-=item * L<Class::Accessor>
+=Class::Accessor
 
-=item * L<Cwd>
+=Cwd
 
-=item * L<DBD::Mock>
+=DBD::Mock
 
-=item * L<DBI>
+=DBI
 
-=item * L<Data::Dumper>
+=Data::Dumper
 
-=item * L<Data::FormValidator>
+=Data::FormValidator
 
-=item * L<Date::Calc>
+=Date::Calc
 
-=item * L<DateTime>
+=DateTime
 
-=item * L<Devel::Cover>
+=Devel::Cover
 
-=item * L<Error>
+=Error
 
-=item * L<ExtUtils::Install>, 1.47
+ExtUtils::Install, 1.47
 
-=item * L<File::Path>
+=File::Path
 
-=item * L<File::Slurp>
+=File::Slurp
 
-=item * L<Hash::Merge>
+=Hash::Merge
 
-=item * L<JSON>
+=JSON
 
-=item * L<List::MoreUtils>
+=List::MoreUtils
 
-=item * L<Module::Build>, 0.35
+Module::Build, 0.35
 
-=item * L<Module::Info::File>
+=Module::Info::File
 
-=item * L<Module::Load>
+=Module::Load
 
-=item * L<Params::Validate>, 0.85
+Params::Validate, 0.85
 
-=item * L<Perl::Tidy>
+=Perl::Tidy
 
-=item * L<Pod::Simple::Wiki>
+=Pod::Simple::Wiki
 
-=item * L<Spreadsheet::WriteExcel>
+=Spreadsheet::WriteExcel
 
-=item * L<Template>
+=Template
 
-=item * L<Term::ReadLine::Perl>
+=Term::ReadLine::Perl
 
-=item * L<Test::Class>
+=Test::Class
 
-=item * L<Test::Exception>
+=Test::Exception
 
-=item * L<Test::Kwalitee>
+=Test::Kwalitee
 
-=item * L<Test::MockObject::Extends>
+=Test::MockObject::Extends
 
-=item * L<Test::More>
+=Test::More
 
-=item * L<Test::Perl::Critic>
+=Test::Perl::Critic
 
-=item * L<Test::Pod>, 1.14
+Test::Pod, 1.14
 
-=item * L<Test::Pod::Coverage>, 1.04
+Test::Pod::Coverage, 1.04
 
-=item * L<Test::Prereq>
+=Test::Prereq
 
-=item * L<Tie::IxHash>
+=Tie::IxHash
 
-=item * L<WWW::Mechanize>
+=WWW::Mechanize
 
-=item * L<WWW::Mechanize::Cached>
+=WWW::Mechanize::Cached
 
-=item * L<XML::Simple>
+=XML::Simple
 
-=item * L<YAML>
+=YAML
 
 =back
 

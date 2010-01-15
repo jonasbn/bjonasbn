@@ -27,9 +27,9 @@ sub ACTION_contents {
         my ($key, $val) = $sorted->Shift();
         
         if ($val) {
-            $pod .= "=item * L<$key>, $val\n\n";
+            $pod .= "$key, $val\n\n";
         } else {
-            $pod .= "=item * L<$key>\n\n";
+            $pod .= "=$key\n\n";
         }
     }
     $pod .= "=back\n\n=head1 SEE ALSO";
