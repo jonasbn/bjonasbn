@@ -18,93 +18,89 @@ Bundle::JONASBN - Collection of modules often used by jonasbn
 
 =head1 CONTENTS
 
-=over
+AppConfig
 
-=AppConfig
+CPAN::Mini
 
-=CPAN::Mini
+CPAN::Reporter
 
-=CPAN::Reporter
+Class::Accessor
 
-=Class::Accessor
+Cwd
 
-=Cwd
+DBD::Mock
 
-=DBD::Mock
+DBI
 
-=DBI
+Data::Dumper
 
-=Data::Dumper
+Data::FormValidator
 
-=Data::FormValidator
+Date::Calc
 
-=Date::Calc
+DateTime
 
-=DateTime
+Devel::Cover
 
-=Devel::Cover
-
-=Error
+Error
 
 ExtUtils::Install, 1.47
 
-=File::Path
+File::Path
 
-=File::Slurp
+File::Slurp
 
-=Hash::Merge
+Hash::Merge
 
-=JSON
+JSON
 
-=List::MoreUtils
+List::MoreUtils
 
 Module::Build, 0.35
 
-=Module::Info::File
+Module::Info::File
 
-=Module::Load
+Module::Load
 
 Params::Validate, 0.85
 
-=Perl::Tidy
+Perl::Tidy
 
-=Pod::Simple::Wiki
+Pod::Simple::Wiki
 
-=Spreadsheet::WriteExcel
+Spreadsheet::WriteExcel
 
-=Template
+Template
 
-=Term::ReadLine::Perl
+Term::ReadLine::Perl
 
-=Test::Class
+Test::Class
 
-=Test::Exception
+Test::Exception
 
-=Test::Kwalitee
+Test::Kwalitee
 
-=Test::MockObject::Extends
+Test::MockObject::Extends
 
-=Test::More
+Test::More
 
-=Test::Perl::Critic
+Test::Perl::Critic
 
 Test::Pod, 1.14
 
 Test::Pod::Coverage, 1.04
 
-=Test::Prereq
+Test::Prereq
 
-=Tie::IxHash
+Tie::IxHash
 
-=WWW::Mechanize
+WWW::Mechanize
 
-=WWW::Mechanize::Cached
+WWW::Mechanize::Cached
 
-=XML::Simple
+XML::Simple
 
-=YAML
-
-=back
+YAML
 
 =head1 SEE ALSO
 
