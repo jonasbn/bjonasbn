@@ -1,4 +1,3 @@
-
 #!start included /System/Library/Perl/5.10.0/ExtUtils/MANIFEST.SKIP
 # Avoid version control files.
 \bRCS\b
@@ -45,7 +44,6 @@
 \bBundle-JONASBN-[\d\.\_]+
 
 # Avoid project specific files
-Bundle-JONASBN.kpf
 spikes
 ^MYMETA.yml$
 \.kpf$
