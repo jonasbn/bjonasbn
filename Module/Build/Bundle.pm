@@ -11,7 +11,18 @@ use Carp qw(croak);
 use Cwd qw(getcwd);
 use Tie::IxHash;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
+
+sub ACTION_build {
+    my $self = shift;
+
+	if (! $self->{'_completed_actions'}{'contents'}) {
+		$self->ACTION_contents();
+		
+	}
+	
+	return Module::Build::Base::ACTION_build($self);;
+}
 
 sub ACTION_contents {
     my $self = shift;
