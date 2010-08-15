@@ -58,7 +58,9 @@ sub ACTION_contents {
     open(FOUT, '>', $file)
         or croak "Unable to open file: $file - $!";
     print FOUT $contents;
-    close(FOUT);
+    close(FOUT) or croak "Unable to close file: $file - $!";
+
+	return 1;
 }
 
 1;
