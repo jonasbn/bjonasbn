@@ -1,0 +1,62 @@
+Changes file for Task::BeLike::JONASBN
+
+1.00, HEAD
+
+- [BJONASBN-21] readdressed, POD now nicely formatted again
+
+- Renamed distribution to Task::BeLike::JONASBN [BJONASBN-22]
+  Bundle::JONASBN, will eventually be removed from CPAN, but I will leave it there for some time.
+  I will not support it any longer. Task::BeLike::JONASBN will be the new distribution
+
+- Implemented respect for build action [BJONASBN-16]
+
+
+################################################
+#                                              #
+# Under the distribution name: Bundle::JONASBN #
+#                                              #
+################################################
+
+0.04, released 30.01.2010 - Update required
+
+- Added POD syntax test to test suite
+
+- Addressed failing tests, my perception of a bundle does not seem to be a
+real bundle
+
+
+0.03, released 08.10.2009 - Update not required
+
+- Add DataFormValidator [BJONASBN-13]
+
+- Add CPAN::Mini [BJONASBN-14] 
+
+- Add CPAN::Reporter [BJONASBN-15] 
+
+- Add Pod::Simple::Wiki [BJONASBN-11] 
+
+- Add DBD:.Mock [BJONASBN-9] 
+
+- Add DateTime [BJONASBN-10] 
+
+
+0.02, released 05.10.2009 - Update not required
+
+- Added sorting to Build contents action [BJONASBN-7]
+
+- Added WWW::Mechanize [BJONASBN-2]
+
+- Added WWW::Mechanize::Cached [BJONASBN-3]
+
+- Added Test::MockObject::Extends [BJONASBN-4]
+
+- Added File::Slurp [BJONASBN-5]
+
+- Added Devel::Cover [BJONASBN-6]
+
+- Added Changes file [BJONASBN-8] 
+
+
+0.01, released 28.09.2009
+
+- Initial release
