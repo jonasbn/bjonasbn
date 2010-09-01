@@ -11,7 +11,7 @@ use Carp qw(croak);
 use Cwd qw(getcwd);
 use Tie::IxHash;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 sub ACTION_build {
     my $self = shift;
