@@ -31,89 +31,89 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =over
 
-AppConfig
+=item * L<AppConfig>
 
-CPAN::Mini
+=item * L<CPAN::Mini>
 
-CPAN::Reporter
+=item * L<CPAN::Reporter>
 
-Class::Accessor
+=item * L<Class::Accessor>
 
-Cwd
+=item * L<Cwd>
 
-DBD::Mock
+=item * L<DBD::Mock>
 
-DBI
+=item * L<DBI>
 
-Data::Dumper
+=item * L<Data::Dumper>
 
-Data::FormValidator
+=item * L<Data::FormValidator>
 
-Date::Calc
+=item * L<Date::Calc>
 
-DateTime
+=item * L<DateTime>
 
-Devel::Cover
+=item * L<Devel::Cover>
 
-Error
+=item * L<Error>
 
-ExtUtils::Install, 1.47
+=item * L<ExtUtils::Install>, 1.47
 
-File::Path
+=item * L<File::Path>
 
-File::Slurp
+=item * L<File::Slurp>
 
-Hash::Merge
+=item * L<Hash::Merge>
 
-JSON
+=item * L<JSON>
 
-List::MoreUtils
+=item * L<List::MoreUtils>
 
-Module::Build, 0.35
+=item * L<Module::Build>, 0.35
 
-Module::Info::File
+=item * L<Module::Info::File>
 
-Module::Load
+=item * L<Module::Load>
 
-Params::Validate, 0.85
+=item * L<Params::Validate>, 0.85
 
-Perl::Tidy
+=item * L<Perl::Tidy>
 
-Pod::Simple::Wiki
+=item * L<Pod::Simple::Wiki>
 
-Spreadsheet::WriteExcel
+=item * L<Spreadsheet::WriteExcel>
 
-Template
+=item * L<Template>
 
-Term::ReadLine::Perl
+=item * L<Term::ReadLine::Perl>
 
-Test::Class
+=item * L<Test::Class>
 
-Test::Exception
+=item * L<Test::Exception>
 
-Test::Kwalitee
+=item * L<Test::Kwalitee>
 
-Test::MockObject::Extends
+=item * L<Test::MockObject::Extends>
 
-Test::More
+=item * L<Test::More>
 
-Test::Perl::Critic
+=item * L<Test::Perl::Critic>
 
-Test::Pod, 1.14
+=item * L<Test::Pod>, 1.14
 
-Test::Pod::Coverage, 1.04
+=item * L<Test::Pod::Coverage>, 1.04
 
-Test::Prereq
+=item * L<Test::Prereq>
 
-Tie::IxHash
+=item * L<Tie::IxHash>
 
-WWW::Mechanize
+=item * L<WWW::Mechanize>
 
-WWW::Mechanize::Cached
+=item * L<WWW::Mechanize::Cached>
 
-XML::Simple
+=item * L<XML::Simple>
 
-YAML
+=item * L<YAML>
 
 =back
 
@@ -121,7 +121,7 @@ YAML
 
 =over
 
-=item * L<Bundle::COG>
+=item * L<Task>
 
 =back
 
