@@ -1,6 +1,17 @@
-package Bundle::JONASBN;
+package Task::BeLike::JONASBN;
 
-$VERSION = '0.04';
+# $Id$
+
+# Courtesy of Adam Kennedy
+# http://search.cpan.org/dist/Task/lib/Task.pm
+
+use strict;
+
+use vars qw{$VERSION};
+
+BEGIN {
+    $VERSION = '1.00';
+}
 
 1;
 
@@ -10,13 +21,15 @@ __END__
 
 =head1 NAME
 
-Bundle::JONASBN - Collection of modules often used by jonasbn
+Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =head1 SYNOPSIS
 
-    perl -MCPAN -e 'install Bundle::JONASBN'
+    perl -MCPAN -e 'install Task::BeLike::JONASBN'
 
 =head1 CONTENTS
+
+=over
 
 AppConfig
 
@@ -101,6 +114,8 @@ WWW::Mechanize::Cached
 XML::Simple
 
 YAML
+
+=back
 
 =head1 SEE ALSO
 

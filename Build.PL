@@ -10,7 +10,7 @@ our $VERSION = '0.01';
 
 my $build = Module::Build::Bundle->new(
     dist_author   => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
-    module_name   => 'Bundle::JONASBN',
+    module_name   => 'Task::BeLike::JONASBN',
     license       => 'artistic',
     create_readme => 1,
     requires      => {
@@ -59,8 +59,14 @@ my $build = Module::Build::Bundle->new(
     },
     meta_merge => {
         resources => {
-            homepage   => 'http://logicLAB.jira.com/browse/BJONASBN',
+            homepage => 'http://logiclab.jira.com/wiki/display/BJONASBN/Home',
+            bugtracker =>
+                'http://rt.cpan.org/NoAuth/Bugs.html?Dist=Task-BeLike-JONASBN',
             repository => 'http://logicLAB.jira.com/svn/BJONASBN',
+            ProjectChangelog =>
+                'http://logiclab.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel',
+            ProjectSite => 'http://logicLAB.jira.com/browse/BJONASBN',
+            ProjectWiki => 'http://logiclab.jira.com/wiki/display/BJONASBN/Home',
         }
     },
 );

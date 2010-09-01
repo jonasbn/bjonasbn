@@ -47,7 +47,7 @@ sub ACTION_contents {
 
     my $cwd = getcwd();
 
-    my $file = "$cwd/lib/Bundle/JONASBN.pm";
+    my $file = "$cwd/lib/Task/BeLike/JONASBN.pm";
     open(FIN, '+<', $file)
         or croak "Unable to open file: $file - $!";
         

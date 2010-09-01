@@ -7,7 +7,7 @@ use warnings;
 use Module::Build::Bundle;
 
 my $build = Module::Build::Bundle->new(
-    module_name   => 'Bundle::JONASBN',
+    module_name   => 'Task::BeLike::JONASBN',
     dist_version  => '0.02',
     requires      => {
         'Cwd'                       => '0',

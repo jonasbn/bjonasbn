@@ -4,4 +4,4 @@
 
 use Test::More tests => 1;
 
-use_ok('Bundle::JONASBN');
+use_ok('Task::BeLike::JONASBN');
