@@ -38,16 +38,16 @@ sub ACTION_contents {
         my ($key, $val) = $sorted->Shift();
         
         if ($val) {
-            $pod .= "$key, $val\n\n";
+            $pod .= "=item * L<$key>, $val\n\n";
         } else {
-            $pod .= "$key\n\n";
+            $pod .= "=item * L<$key>\n\n";
         }
     }
     $pod .= "=back\n\n=head1 SEE ALSO";
 
     my $cwd = getcwd();
 
-    my $file = "$cwd/lib/Bundle/JONASBN.pm";
+    my $file = "$cwd/lib/Task/BeLike/JONASBN.pm";
     open(FIN, '+<', $file)
         or croak "Unable to open file: $file - $!";
         

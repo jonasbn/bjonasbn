@@ -1,4 +1,23 @@
-Changes file for Bundle::JONASBN
+Changes file for Task::BeLike::JONASBN
+
+1.00, HEAD
+
+- [BJONASBN-21] readdressed, POD now nicely formatted again
+
+- Renamed distribution to Task::BeLike::JONASBN [BJONASBN-22]
+  Bundle::JONASBN, will eventually be removed from CPAN, but I will leave it there for some time.
+  I will not support it any longer. Task::BeLike::JONASBN will be the new distribution
+
+- Implemented respect for build action [BJONASBN-16]
+
+
+################################################
+#                                              #
+# Under the distribution name: Bundle::JONASBN #
+#                                              #
+################################################
+
+0.04, released 30.01.2010 - Update required
 
 - Added POD syntax test to test suite
 
