@@ -1,6 +1,6 @@
 Changes file for Task::BeLike::JONASBN
 
-1.00, HEAD
+1.00, released 01.09.2010 - Initial release, new packaging
 
 - [BJONASBN-21] readdressed, POD now nicely formatted again
 
@@ -8,7 +8,9 @@ Changes file for Task::BeLike::JONASBN
   Bundle::JONASBN, will eventually be removed from CPAN, but I will leave it there for some time.
   I will not support it any longer. Task::BeLike::JONASBN will be the new distribution
 
-- Implemented respect for build action [BJONASBN-16]
+- Implemented respect for build action, so the contents section in the 
+  Perl module is auto-generated based on the custom build module
+  Module::Build::Bundle [BJONASBN-16]
 
 
 ################################################
@@ -27,17 +29,17 @@ real bundle
 
 0.03, released 08.10.2009 - Update not required
 
-- Add DataFormValidator [BJONASBN-13]
+- Added DataFormValidator [BJONASBN-13]
 
-- Add CPAN::Mini [BJONASBN-14] 
+- Added CPAN::Mini [BJONASBN-14] 
 
-- Add CPAN::Reporter [BJONASBN-15] 
+- Added CPAN::Reporter [BJONASBN-15] 
 
-- Add Pod::Simple::Wiki [BJONASBN-11] 
+- Added Pod::Simple::Wiki [BJONASBN-11] 
 
-- Add DBD:.Mock [BJONASBN-9] 
+- Added DBD:.Mock [BJONASBN-9] 
 
-- Add DateTime [BJONASBN-10] 
+- Added DateTime [BJONASBN-10] 
 
 
 0.02, released 05.10.2009 - Update not required
