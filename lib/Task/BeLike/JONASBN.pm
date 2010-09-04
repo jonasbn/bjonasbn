@@ -10,7 +10,7 @@ use strict;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '1.00';
+    $VERSION = '1.01';
 }
 
 1;
@@ -104,8 +104,6 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 =item * L<Test::Pod::Coverage>, 1.04
 
 =item * L<Test::Prereq>
-
-=item * L<Tie::IxHash>
 
 =item * L<WWW::Mechanize>
 

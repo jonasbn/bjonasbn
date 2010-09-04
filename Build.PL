@@ -6,13 +6,16 @@ use strict;
 use warnings;
 use Module::Build::Bundle;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 my $build = Module::Build::Bundle->new(
     dist_author   => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
     module_name   => 'Task::BeLike::JONASBN',
     license       => 'artistic',
     create_readme => 1,
+    configure_requires => {
+        'Tie::IxHash'               => '0', #used in dist
+    },
     requires      => {
         'AppConfig'                 => '0',
         'Class::Accessor'           => '0',
@@ -51,7 +54,6 @@ my $build = Module::Build::Bundle->new(
         'Test::Pod::Coverage'       => '1.04',
         'Test::Prereq'              => '0',
         'Term::ReadLine::Perl'      => '0',
-        'Tie::IxHash'               => '0', #used in dist
         'WWW::Mechanize'            => '0',
         'WWW::Mechanize::Cached'    => '0',
         'XML::Simple'               => '0',
