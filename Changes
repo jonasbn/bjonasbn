@@ -1,5 +1,9 @@
 Changes file for Task::BeLike::JONASBN
 
+Project site changelog:
+
+http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
+
 1.00, released 01.09.2010 - Initial release, new packaging
 
 - [BJONASBN-21] readdressed, POD now nicely formatted again
