@@ -18,6 +18,7 @@ my $build = Module::Build::Bundle->new(
     },
     requires      => {
         'AppConfig'                 => '0',
+        'App::Ack'                  => '0',
         'Class::Accessor'           => '0',
         'CPAN::Mini'                => '0',
         'CPAN::Reporter'            => '0',
