@@ -31,6 +31,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =over
 
+=item * L<App::Ack>
+
 =item * L<AppConfig>
 
 =item * L<CPAN::Mini>
@@ -58,6 +60,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 =item * L<Error>
 
 =item * L<ExtUtils::Install>, 1.47
+
+=item * L<File::Copy>
 
 =item * L<File::Path>
 
