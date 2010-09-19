@@ -6,7 +6,7 @@ use strict;
 use warnings;
 use Module::Build::Bundle;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 my $build = Module::Build::Bundle->new(
     dist_author   => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
