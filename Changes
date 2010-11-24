@@ -1,8 +1,23 @@
 Changes file for Task::BeLike::JONASBN
 
+$Id$
+
 Project site changelog:
 
 http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
+
+1.02, released 24.11.2010 - Maintenance release, update not required
+
+- [BJONASBN-31]	Added App::Ack
+  http://logiclab.jira.com/browse/BJONASBN-31
+
+- [BJONASBN-32]	Add File::Copy
+  http://logiclab.jira.com/browse/BJONASBN-32
+
+- [BJONASBN-29]	Extracted and released Module::Build::Bundle in a bundle
+  compatible version separate distribution
+  http://logiclab.jira.com/browse/BJONASBN-29
+
 
 1.01, released 04.09.2010 - Bugfix release, update not required
 
