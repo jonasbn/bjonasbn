@@ -10,7 +10,7 @@ use strict;
 use vars qw{$VERSION};
 
 BEGIN {
-    $VERSION = '1.02';
+    $VERSION = '1.03';
 }
 
 1;
@@ -31,105 +31,103 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =over
 
-=item * L<App::Ack>
+=item * L<App::Ack|App::Ack>
 
-=item * L<AppConfig>
+=item * L<App::Prove|App::Prove>
 
-=item * L<CPAN::Mini>
+=item * L<AppConfig|AppConfig>
 
-=item * L<CPAN::Reporter>
+=item * L<CPAN::Mini|CPAN::Mini>
 
-=item * L<Class::Accessor>
+=item * L<CPAN::Reporter|CPAN::Reporter>
 
-=item * L<Cwd>
+=item * L<Class::Accessor|Class::Accessor>
 
-=item * L<DBD::Mock>
+=item * L<Cwd|Cwd>
 
-=item * L<DBI>
+=item * L<DBD::Mock|DBD::Mock>
 
-=item * L<Data::Dumper>
+=item * L<DBI|DBI>
 
-=item * L<Data::FormValidator>
+=item * L<Data::Dumper|Data::Dumper>
 
-=item * L<Date::Calc>
+=item * L<Data::FormValidator|Data::FormValidator>
 
-=item * L<DateTime>
+=item * L<Date::Calc|Date::Calc>
 
-=item * L<Devel::Cover>
+=item * L<DateTime|DateTime>
 
-=item * L<Error>
+=item * L<Devel::Cover|Devel::Cover>
 
-=item * L<ExtUtils::Install>, 1.47
+=item * L<Error|Error>
 
-=item * L<File::Copy>
+=item * L<ExtUtils::Install|ExtUtils::Install>, 1.47
 
-=item * L<File::Path>
+=item * L<File::Copy|File::Copy>
 
-=item * L<File::Slurp>
+=item * L<File::Path|File::Path>
 
-=item * L<Hash::Merge>
+=item * L<File::Slurp|File::Slurp>
 
-=item * L<JSON>
+=item * L<Hash::Merge|Hash::Merge>
 
-=item * L<List::MoreUtils>
+=item * L<JSON|JSON>
 
-=item * L<Module::Build>, 0.35
+=item * L<List::MoreUtils|List::MoreUtils>
 
-=item * L<Module::Info::File>
+=item * L<Module::Build|Module::Build>, 0.35
 
-=item * L<Module::Load>
+=item * L<Module::Info::File|Module::Info::File>
 
-=item * L<Params::Validate>, 0.85
+=item * L<Module::Load|Module::Load>
 
-=item * L<Perl::Tidy>
+=item * L<Params::Validate|Params::Validate>, 0.85
 
-=item * L<Pod::Simple::Wiki>
+=item * L<Perl::Critic|Perl::Critic>
 
-=item * L<Spreadsheet::WriteExcel>
+=item * L<Perl::Tidy|Perl::Tidy>
 
-=item * L<Template>
+=item * L<Pod::Simple::Wiki|Pod::Simple::Wiki>
 
-=item * L<Term::ReadLine::Perl>
+=item * L<Spreadsheet::WriteExcel|Spreadsheet::WriteExcel>
 
-=item * L<Test::Class>
+=item * L<TAP::Formatter::JUnit|TAP::Formatter::JUnit>
 
-=item * L<Test::Exception>
+=item * L<Template|Template>
 
-=item * L<Test::Kwalitee>
+=item * L<Term::ReadLine::Perl|Term::ReadLine::Perl>
 
-=item * L<Test::MockObject::Extends>
+=item * L<Test::Class|Test::Class>
 
-=item * L<Test::More>
+=item * L<Test::Exception|Test::Exception>
 
-=item * L<Test::Perl::Critic>
+=item * L<Test::Fatal|Test::Fatal>
 
-=item * L<Test::Pod>, 1.14
+=item * L<Test::Kwalitee|Test::Kwalitee>
 
-=item * L<Test::Pod::Coverage>, 1.04
+=item * L<Test::MockObject::Extends|Test::MockObject::Extends>
 
-=item * L<Test::Prereq>
+=item * L<Test::More|Test::More>
 
-=item * L<WWW::Mechanize>
+=item * L<Test::Perl::Critic|Test::Perl::Critic>
 
-=item * L<WWW::Mechanize::Cached>
+=item * L<Test::Pod|Test::Pod>, 1.14
 
-=item * L<XML::Simple>
+=item * L<Test::Pod::Coverage|Test::Pod::Coverage>, 1.04
 
-=item * L<YAML>
+=item * L<Test::Prereq|Test::Prereq>
+
+=item * L<Try::Tiny|Try::Tiny>
+
+=item * L<WWW::Mechanize|WWW::Mechanize>
+
+=item * L<WWW::Mechanize::Cached|WWW::Mechanize::Cached>
+
+=item * L<XML::Simple|XML::Simple>
+
+=item * L<YAML|YAML>
 
 =back
-
-=head1 SEE ALSO
-
-=over
-
-=item * L<Task>
-
-=back
-
-=head1 AUTHOR
-
-Jonas B. Nielsen (jonasbn), C<< <jonasbn@cpan.org> >>
 
 =head1 COPYRIGHT & LICENSE
 
