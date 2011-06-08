@@ -6,12 +6,13 @@ use strict;
 use warnings;
 use Module::Build::Bundle;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 my $build = Module::Build::Bundle->new(
     dist_author   => 'Jonas B. Nielsen (jonasbn), <jonasbn@cpan.org>',
     module_name   => 'Task::BeLike::JONASBN',
     license       => 'artistic',
+    create_makefile_pl => 'traditional',
     create_readme => 1,
     configure_requires => {
         'Tie::IxHash'               => '0', #used in dist
