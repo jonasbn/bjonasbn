@@ -49,3 +49,5 @@ spikes
 ^MYMETA.yml$
 \.kpf$
 \.komodoproject$
+
+^MYMETA\.json$

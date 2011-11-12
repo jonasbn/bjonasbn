@@ -117,6 +117,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =item * L<Test::Prereq|Test::Prereq>
 
+=item * L<Tie::IxHash|Tie::IxHash>
+
 =item * L<Try::Tiny|Try::Tiny>
 
 =item * L<WWW::Mechanize|WWW::Mechanize>
@@ -126,6 +128,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 =item * L<XML::Simple|XML::Simple>
 
 =item * L<YAML|YAML>
+
+=item * L<local::lib|local::lib>
 
 =back
 
