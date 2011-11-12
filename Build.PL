@@ -35,6 +35,7 @@ my $build = Module::Build::Bundle->new(
         'Error'                       => '0',
         'ExtUtils::Install'           => '1.47',
         'File::Copy'                  => '0',
+        'File::Find::Rule'            => '0',
         'File::Path'                  => '0',
         'File::Slurp'                 => '0',
         'Hash::Merge'                 => '0',
