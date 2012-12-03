@@ -65,6 +65,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =item * L<File::Copy|File::Copy>
 
+=item * L<File::Find::Rule|File::Find::Rule>
+
 =item * L<File::Path|File::Path>
 
 =item * L<File::Slurp|File::Slurp>
@@ -84,6 +86,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 =item * L<Params::Validate|Params::Validate>, 0.85
 
 =item * L<Perl::Critic|Perl::Critic>
+
+=item * L<Perl::Critic::Bangs|Perl::Critic::Bangs>
 
 =item * L<Perl::Tidy|Perl::Tidy>
 
