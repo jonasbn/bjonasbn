@@ -38,6 +38,7 @@ my $build = Module::Build::Bundle->new(
         'File::Find::Rule'            => '0',
         'File::Path'                  => '0',
         'File::Slurp'                 => '0',
+        'File::Which'                 => '0',
         'Hash::Merge'                 => '0',
         'JSON'                        => '0',
         'List::MoreUtils'             => '0',
