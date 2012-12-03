@@ -56,6 +56,7 @@ my $build = Module::Build::Bundle->new(
         'Tie::IxHash'                 => '0',
         'Template'                    => '0',
         'Test::Class'                 => '0',
+        'Test::DatabaseRow'           => '0',
         'Test::Exception'             => '0',
         'Test::Fatal'                 => '0',
         'Test::Kwalitee'              => '0',
