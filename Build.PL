@@ -70,6 +70,7 @@ my $build = Module::Build::Bundle->new(
         'WWW::Mechanize::Cached'      => '0',
         'XML::Simple'                 => '0',
         'YAML'                        => '0',
+        'YAML::Shell'                 => '0',
     },
     meta_merge => {
         resources => {
