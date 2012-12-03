@@ -71,6 +71,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =item * L<File::Slurp|File::Slurp>
 
+=item * L<File::Which|File::Which>
+
 =item * L<Hash::Merge|Hash::Merge>
 
 =item * L<JSON|JSON>
@@ -103,6 +105,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =item * L<Test::Class|Test::Class>
 
+=item * L<Test::DatabaseRow|Test::DatabaseRow>
+
 =item * L<Test::Exception|Test::Exception>
 
 =item * L<Test::Fatal|Test::Fatal>
@@ -132,6 +136,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 =item * L<XML::Simple|XML::Simple>
 
 =item * L<YAML|YAML>
+
+=item * L<YAML::Shell|YAML::Shell>
 
 =item * L<local::lib|local::lib>
 
