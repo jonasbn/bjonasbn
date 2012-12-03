@@ -145,7 +145,7 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2009-2011 Jonas B. Nielsen (jonasbn), All Rights Reserved.
+Copyright 2009-2012 Jonas B. Nielsen (jonasbn), All Rights Reserved.
 
 This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
