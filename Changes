@@ -6,7 +6,20 @@ Project site changelog:
 
 http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
 
-1.04, released 2012.12.03 - Maintenance release, update not required
+HEAD
+
+- Fixed up Changes file as part of my Questhub quest adhering to the standard
+  described in: CPAN::Changes::Spec [BJONASBN-50]
+
+  Quest: http://questhub.io/realm/perl/quest/51f0fd8e18ba7dcf4b000040
+  Spec: https://metacpan.org/module/CPAN::Changes::Spec
+  
+  https://logiclab.jira.com/browse/BJONASBN-50
+
+
+1.04 2012-12-03
+
+- Maintenance release, update not required
 
 - [BJONASBN-43] Added File::Find::Rule
   http://logiclab.jira.com/browse/BJONASBN-43
@@ -32,7 +45,9 @@ http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.s
 - Changed timestamps in Changes file to ISO8601 format (my personal favorite)
 
 
-1.03, released 2011.04.11 - Maintenance release, update not required
+1.03 2011-04-11
+
+- Maintenance release, update not required
 
 - [BJONASBN-38] Added App::Prove
   http://logiclab.jira.com/browse/BJONASBN-38
@@ -50,7 +65,9 @@ http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.s
   http://logiclab.jira.com/browse/BJONASBN-34
 
 
-1.02, released 2010.11.24 - Maintenance release, update not required
+1.02 2010-11-24
+
+- Maintenance release, update not required
 
 - [BJONASBN-31]	Added App::Ack
   http://logiclab.jira.com/browse/BJONASBN-31
@@ -63,13 +80,17 @@ http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.s
   http://logiclab.jira.com/browse/BJONASBN-29
 
 
-1.01, released 2010.09.04 - Bugfix release, update not required
+1.01 2010-09-04
+
+- Bugfix release, update not required
 
 - [BJONASBN-25] addressed failing test. Adhering to documentation from
   Module::Build on requirements needed for configuration
 
 
-1.00, released 2010.09.01 - Initial release, new packaging
+1.00 2010-09-01
+
+- Initial release, new packaging
 
 - [BJONASBN-21] readdressed, POD now nicely formatted again
 
@@ -82,14 +103,15 @@ http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.s
   Perl module is auto-generated based on the custom build module
   Module::Build::Bundle [BJONASBN-16]
 
-
 ################################################
 #                                              #
 # Under the distribution name: Bundle::JONASBN #
 #                                              #
 ################################################
 
-0.04, released 2010.01.30 - Update required
+0.04 2010-01-30
+
+- Update required
 
 - Added POD syntax test to test suite
 
@@ -97,7 +119,9 @@ http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.s
 real bundle
 
 
-0.03, released 2009.10.08 - Update not required
+0.03 2009-10-08
+
+- Update not required
 
 - Added DataFormValidator [BJONASBN-13]
 
@@ -112,7 +136,9 @@ real bundle
 - Added DateTime [BJONASBN-10] 
 
 
-0.02, released 2009.10.05 - Update not required
+0.02 2009-10-05
+
+- Update not required
 
 - Added sorting to Build contents action [BJONASBN-7]
 
@@ -129,6 +155,6 @@ real bundle
 - Added Changes file [BJONASBN-8] 
 
 
-0.01, released 2009.09.28
+0.01 2009-09-28
 
 - Initial release
