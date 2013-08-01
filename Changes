@@ -6,7 +6,7 @@ Project site changelog:
 
 http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.system.project%3Achangelog-panel
 
-HEAD
+1.05 2013-08-01
 
 - Fixed up Changes file as part of my Questhub quest adhering to the standard
   described in: CPAN::Changes::Spec [BJONASBN-50]
