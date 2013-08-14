@@ -8,6 +8,10 @@ http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.s
 
 HEAD
 
+- Specified requirement for Devel::Cover to be atleast version 1.00 [BJONASBN-52]
+
+  https://logiclab.jira.com/browse/BJONASBN-52
+
 - Added Test::CPAN::Changes to list of distributions I like [BJONASBN-53]
 
   https://logiclab.jira.com/browse/BJONASBN-53
