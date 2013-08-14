@@ -8,6 +8,10 @@ http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.s
 
 HEAD
 
+- Added Test::CPAN::Changes test (t/changes.t) [BJONASBN-52]
+
+  https://logiclab.jira.com/browse/BJONASBN-52
+
 - Added Test::Kwalitee test (t/kwalitee.t) [BJONASBN-55]
 
   https://logiclab.jira.com/browse/BJONASBN-55
