@@ -16,7 +16,8 @@ HEAD
 
   https://logiclab.jira.com/browse/BJONASBN-53
 
-- Added Test::CPAN::Changes test (t/changes.t) [BJONASBN-52]
+- Added Test::CPAN::Changes test (t/changes.t), implementing automatic integrity test of 
+  the Changes file, see also BJONASBN-50 [BJONASBN-52]
 
   https://logiclab.jira.com/browse/BJONASBN-52
 
