@@ -8,6 +8,10 @@ http://logicLAB.jira.com/browse/BJONASBN#selectedTab=com.atlassian.jira.plugin.s
 
 HEAD
 
+- Added Perl::Critic::logicLAB
+
+- Added Task::Jenkins
+
 - Specified requirement for Devel::Cover to be atleast version 1.00 [BJONASBN-54]
 
   https://logiclab.jira.com/browse/BJONASBN-54
