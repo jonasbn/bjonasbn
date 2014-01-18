@@ -48,6 +48,7 @@ my $build = Module::Build::Bundle->new(
         'Module::Load'                => '0',
         'Params::Validate'            => '0.85',
         'Perl::Critic'                => '0',
+        'Perl::Critic::logicLAB'      => '0',
         'Perl::Critic::Bangs'         => '0',
         'Perl::Tidy'                  => '0',
         'Pod::Simple::Wiki'           => '0',
