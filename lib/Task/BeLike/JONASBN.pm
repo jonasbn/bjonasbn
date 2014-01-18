@@ -89,6 +89,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =item * L<Perl::Critic|Perl::Critic>
 
+=item * L<Perl::Critic|Perl::logicLAB>
+
 =item * L<Perl::Critic::Bangs|Perl::Critic::Bangs>
 
 =item * L<Perl::Tidy|Perl::Tidy>
@@ -98,6 +100,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 =item * L<Spreadsheet::WriteExcel|Spreadsheet::WriteExcel>
 
 =item * L<TAP::Formatter::JUnit|TAP::Formatter::JUnit>
+
+=item * L<Task::Jenkins|Task::Jenkins>
 
 =item * L<Template|Template>
 
