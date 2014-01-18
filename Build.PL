@@ -53,6 +53,7 @@ my $build = Module::Build::Bundle->new(
         'Pod::Simple::Wiki'           => '0',
         'Spreadsheet::WriteExcel'     => '0',
         'TAP::Formatter::JUnit'       => '0',
+        'Task::Jenkins'               => '0',
         'Tie::IxHash'                 => '0',
         'Template'                    => '0',
         'Test::Class'                 => '0',
