@@ -4,6 +4,7 @@
 
 use strict;
 use warnings;
+
 use Module::Build::Bundle;
 
 our $VERSION = '0.01';
@@ -56,6 +57,7 @@ my $build = Module::Build::Bundle->new(
         'WWW::Mechanize::Cached'    => '0',
         'XML::Simple'               => '0',
         'YAML'                      => '0',
+        'perl'                      => '5.6.0',
     },
     meta_merge => {
         resources => {
