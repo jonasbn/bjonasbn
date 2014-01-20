@@ -3,7 +3,7 @@ package Bundle::JONASBN;
 use strict;
 use warnings;
 
-$VERSION = '0.07';
+our $VERSION = '0.07';
 
 1;
 
