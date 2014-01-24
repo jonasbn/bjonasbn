@@ -8,11 +8,7 @@ package Task::BeLike::JONASBN;
 use strict;
 use warnings;
 
-use vars qw{$VERSION};
-
-BEGIN {
-    $VERSION = '1.06';
-}
+our $VERSION = '1.06';
 
 1;
 
