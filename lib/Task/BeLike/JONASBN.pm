@@ -10,7 +10,7 @@ use warnings;
 
 use 5.006; # 5.6.0
 
-our $VERSION = '1.06';
+our $VERSION = '1.07';
 
 1;
 
