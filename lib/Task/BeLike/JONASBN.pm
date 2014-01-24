@@ -108,6 +108,8 @@ Task::BeLike::JONASBN - Collection of modules often used by jonasbn
 
 =item * L<Test::Class|Test::Class>
 
+=item * L<Test::CPAN::Changes>
+
 =item * L<Test::DatabaseRow|Test::DatabaseRow>
 
 =item * L<Test::Exception|Test::Exception>
