@@ -6,6 +6,7 @@ package Task::BeLike::JONASBN;
 # http://search.cpan.org/dist/Task/lib/Task.pm
 
 use strict;
+use warnings;
 
 use vars qw{$VERSION};
 
