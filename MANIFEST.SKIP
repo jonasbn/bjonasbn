@@ -52,3 +52,6 @@ spikes
 \.komodoproject$
 
 ^MYMETA\.json$
+
+# Github - Travis integration
+\.travis\.yml
