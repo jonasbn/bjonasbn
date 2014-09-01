@@ -1,0 +1,79 @@
+[![CPAN version](https://badge.fury.io/pl/Task::BeLike::JONASBN.svg)](http://badge.fury.io/pl/Task::BeLike::JONASBN)
+[![Build Status](https://travis-ci.org/jonasbn/bjonasbn.svg?branch=master)](https://travis-ci.org/jonasbn/bjonasbn)
+[![Coverage Status](https://coveralls.io/repos/jonasbn/bjonasbn/badge.png)](https://coveralls.io/r/jonasbn/bjonasbn)
+
+# NAME
+
+Task::BeLike::JONASBN - Collection of modules often used by jonasbn
+
+# SYNOPSIS
+
+    perl -MCPAN -e 'install Task::BeLike::JONASBN'
+
+# CONTENTS
+
+- [App::Ack](https://metacpan.org/pod/App::Ack)
+- [App::Prove](https://metacpan.org/pod/App::Prove)
+- [AppConfig](https://metacpan.org/pod/AppConfig)
+- [CPAN::Mini](https://metacpan.org/pod/CPAN::Mini)
+- [CPAN::Reporter](https://metacpan.org/pod/CPAN::Reporter)
+- [Class::Accessor](https://metacpan.org/pod/Class::Accessor)
+- [Cwd](https://metacpan.org/pod/Cwd)
+- [DBD::Mock](https://metacpan.org/pod/DBD::Mock)
+- [DBI](https://metacpan.org/pod/DBI)
+- [Data::Dumper](https://metacpan.org/pod/Data::Dumper)
+- [Data::FormValidator](https://metacpan.org/pod/Data::FormValidator)
+- [Date::Calc](https://metacpan.org/pod/Date::Calc)
+- [DateTime](https://metacpan.org/pod/DateTime)
+- [Devel::Cover](https://metacpan.org/pod/Devel::Cover)
+- [Error](https://metacpan.org/pod/Error)
+- [ExtUtils::Install](https://metacpan.org/pod/ExtUtils::Install), 1.47
+- [File::Copy](https://metacpan.org/pod/File::Copy)
+- [File::Find::Rule](https://metacpan.org/pod/File::Find::Rule)
+- [File::Path](https://metacpan.org/pod/File::Path)
+- [File::Slurp](https://metacpan.org/pod/File::Slurp)
+- [File::Which](https://metacpan.org/pod/File::Which)
+- [Hash::Merge](https://metacpan.org/pod/Hash::Merge)
+- [JSON](https://metacpan.org/pod/JSON)
+- [List::MoreUtils](https://metacpan.org/pod/List::MoreUtils)
+- [Module::Build](https://metacpan.org/pod/Module::Build), 0.35
+- [Module::Info::File](https://metacpan.org/pod/Module::Info::File)
+- [Module::Load](https://metacpan.org/pod/Module::Load)
+- [Params::Validate](https://metacpan.org/pod/Params::Validate), 0.85
+- [Perl::Critic](https://metacpan.org/pod/Perl::Critic)
+- [Perl::Critic](https://metacpan.org/pod/Perl::logicLAB)
+- [Perl::Critic::Bangs](https://metacpan.org/pod/Perl::Critic::Bangs)
+- [Perl::Tidy](https://metacpan.org/pod/Perl::Tidy)
+- [Pod::Simple::Wiki](https://metacpan.org/pod/Pod::Simple::Wiki)
+- [Spreadsheet::WriteExcel](https://metacpan.org/pod/Spreadsheet::WriteExcel)
+- [TAP::Formatter::JUnit](https://metacpan.org/pod/TAP::Formatter::JUnit)
+- [Task::Jenkins](https://metacpan.org/pod/Task::Jenkins)
+- [Template](https://metacpan.org/pod/Template)
+- [Term::ReadLine::Perl](https://metacpan.org/pod/Term::ReadLine::Perl)
+- [Test::Class](https://metacpan.org/pod/Test::Class)
+- [Test::CPAN::Changes](https://metacpan.org/pod/Test::CPAN::Changes)
+- [Test::DatabaseRow](https://metacpan.org/pod/Test::DatabaseRow)
+- [Test::Exception](https://metacpan.org/pod/Test::Exception)
+- [Test::Fatal](https://metacpan.org/pod/Test::Fatal)
+- [Test::Kwalitee](https://metacpan.org/pod/Test::Kwalitee)
+- [Test::MockObject::Extends](https://metacpan.org/pod/Test::MockObject::Extends)
+- [Test::More](https://metacpan.org/pod/Test::More)
+- [Test::Perl::Critic](https://metacpan.org/pod/Test::Perl::Critic)
+- [Test::Pod](https://metacpan.org/pod/Test::Pod), 1.14
+- [Test::Pod::Coverage](https://metacpan.org/pod/Test::Pod::Coverage), 1.04
+- [Test::Prereq](https://metacpan.org/pod/Test::Prereq)
+- [Tie::IxHash](https://metacpan.org/pod/Tie::IxHash)
+- [Try::Tiny](https://metacpan.org/pod/Try::Tiny)
+- [WWW::Mechanize](https://metacpan.org/pod/WWW::Mechanize)
+- [WWW::Mechanize::Cached](https://metacpan.org/pod/WWW::Mechanize::Cached)
+- [XML::Simple](https://metacpan.org/pod/XML::Simple)
+- [YAML](https://metacpan.org/pod/YAML)
+- [YAML::Shell](https://metacpan.org/pod/YAML::Shell)
+- [local::lib](https://metacpan.org/pod/local::lib)
+
+# COPYRIGHT & LICENSE
+
+Copyright 2009-2014 Jonas B. Nielsen (jonasbn), All Rights Reserved.
+
+This program is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
