@@ -20,7 +20,7 @@ __END__
 
 =begin markdown
 
-[![CPAN version](https://badge.fury.io/pl/Task::BeLike::JONASBN.svg)](http://badge.fury.io/pl/Task::BeLike::JONASBN)
+[![CPAN version](https://badge.fury.io/pl/Task-BeLike-JONASBN.svg)](http://badge.fury.io/pl/Task-BeLike-JONASBN)
 [![Build Status](https://travis-ci.org/jonasbn/bjonasbn.svg?branch=master)](https://travis-ci.org/jonasbn/bjonasbn)
 [![Coverage Status](https://coveralls.io/repos/jonasbn/bjonasbn/badge.png)](https://coveralls.io/r/jonasbn/bjonasbn)
 
