@@ -9,4 +9,4 @@ perl:
   - "5.10"
 
 install: 
-  - cpanm --installdeps
+  - cpanm --installdeps .
