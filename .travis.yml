@@ -4,4 +4,6 @@ perl:
   - "5.20"
 
 before_install:
+  - cpanm Test::Kwalitee
   - cpanm Module::Build::Bundle
+ 
