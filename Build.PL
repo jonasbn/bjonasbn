@@ -77,7 +77,6 @@ my $build = Module::Build::Bundle->new(
         'YAML'                        => '0',
         'YAML::Shell'                 => '0',
         'perl'                        => '5.6.0',
-
     },
     meta_merge => {
         resources => {
